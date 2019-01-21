@@ -1,0 +1,1 @@
+[{"model": "task_manager.taskstatus", "pk": 1, "fields": {"title": "In quee", "slug": "quee"}}, {"model": "task_manager.taskstatus", "pk": 2, "fields": {"title": "Completed", "slug": "completed"}}, {"model": "task_manager.taskstatus", "pk": 3, "fields": {"title": "Run", "slug": "run"}}]
